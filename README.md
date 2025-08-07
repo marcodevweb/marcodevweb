@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Marco Aurélio
-**`Desenvolvedor Web FullStack`**
+**`Desenvolvedor Web `**
 
 Me chamo Marco Aurélio, tenho 20 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ULBRA. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Instagram, com o perfil chamado "[@marcoborgesdev](https://www.instagram.com/marcoborgesdev/)".
 
